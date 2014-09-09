@@ -16,7 +16,9 @@
 
 // include main header for libevent
 #include <event2/event.h>
+#include <event2/event-config.h>
 
+#include <event2/thread.h>
 
 
 
